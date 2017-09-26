@@ -1,5 +1,5 @@
 {
-  "name": "ionic-hello-world",
+  "name": "where",
   "version": "0.0.0",
   "author": "Ionic Framework",
   "homepage": "http://ionicframework.com/",
@@ -50,5 +50,5 @@
       "locator": "ios"
     }
   ],
-  "description": "Where: An Ionic project"
+  "description": "Where"
 }
