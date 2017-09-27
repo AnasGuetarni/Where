@@ -17,7 +17,6 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     AboutPage,
     ContactPage,
     HomePage,
-    SlidePage
     TabsPage
   ],
   imports: [
@@ -30,7 +29,6 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     AboutPage,
     ContactPage,
     HomePage,
-    SlidePage,
     TabsPage
   ],
   providers: [
