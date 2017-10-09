@@ -27,7 +27,7 @@ export class PopupPage {
       });
       profileModal.present();
   }
- }
+ 
 
 
   ionViewDidLoad() {
