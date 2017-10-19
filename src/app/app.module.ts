@@ -9,7 +9,6 @@ import { HomePage } from '../pages/home/home';
 import { TabsPage } from '../pages/tabs/tabs';
 import { SlidesPage } from '../pages/slides/slides';
 import { HepiaPage } from '../pages/hepia/hepia';
-import { PopupPage } from '../pages/popup/popup';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -22,7 +21,6 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     HomePage,
     SlidesPage,
     HepiaPage,
-    PopupPage,
     TabsPage
   ],
   imports: [
@@ -37,7 +35,6 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     HomePage,
     SlidesPage,
     HepiaPage,
-    PopupPage,
     TabsPage
   ],
   providers: [
